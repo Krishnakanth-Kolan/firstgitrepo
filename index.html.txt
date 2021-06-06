@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>Krishnakanth Reddy Kolan</h1>
-<h2>My</h2>
+<h2>My name is Krishnakanth</h2>
 </body>
 </html>
